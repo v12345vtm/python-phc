@@ -1,5 +1,6 @@
 # [TX] * C0 * FE * 00 * 21 * 00 * 00 * 02 * 74 * BE * C1
 # [RX]  * C0 * 00 * FE * 21 * 01 * 93 * 4B * C1 *
+# https://github.com/v12345vtm/python-phc
 
 
 
@@ -47,7 +48,7 @@ commando = "FE 00 21 00 00 02"
 verwachtecrc = "74 be"
 crcberekenen(commando)
 
-
+recieved = "c000fe2101934bc1"
 
 eerest = tabel[0]
 
