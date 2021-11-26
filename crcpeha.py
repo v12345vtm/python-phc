@@ -2,15 +2,17 @@
 # [RX]  * C0 * 00 * FE * 21 * 01 * 93 * 4B * C1 *
 # https://github.com/v12345vtm/python-phc
 
-
+tabelcrcberekenen = list(())  # creer lege list
+tabelcheckfb = list(())  # creer lege list
 
 
 def crcberekenen(pehacmd):
-    global tabel
-    tabel = pehacmd.split(' ')
-    print(tabel)
+    global tabelcrcberekenen
+    pehacmd = pehacmd.upper()
+    tabelcrcberekenen = pehacmd.split(' ')
+    print(f'tabelcrcberekenen in={tabelcrcberekenen}' )
     tempcrc  = int(65535)
-    for x in tabel:
+    for x in tabelcrcberekenen:
         yy =  int(x, 16)
         tempcrc = tempcrc ^ yy  #65281 dan 4470 dan 5761 dan 38295 dan 57507 dan 38771
         #print(f'tempcrc xor {tempcrc}')
@@ -36,24 +38,40 @@ def crcberekenen(pehacmd):
     crcstring = str(hex(tempcrc)).upper()
     crcdeel1 = crcstring[5] + crcstring[6]
     crcdeel2 = crcstring[3]+ crcstring[4]
-    tabel.append(crcdeel1)
-    tabel.append(crcdeel2)
-    print(tabel)
+    tabelcrcberekenen.append(crcdeel1)
+    tabelcrcberekenen.append(crcdeel2)
+    print(f'tabelcrcberekenen out={tabelcrcberekenen}' )
 #####################end functie crc berekenen
 
 
 
+def findCRCinString(tecontrolerenstring):
+    tecontrolerenstring = tecontrolerenstring.upper()
+    tabelcheckfb = tecontrolerenstring.split(' ')
+    print(f'tabelcheckfb in={tabelcheckfb}' )
+    #remove start en stopbytes indien ze er zijn (C0 en c1 ) afkappen
+    if "C0" in tabelcheckfb: tabelcheckfb.remove("C0")
+    if "C1" in tabelcheckfb: tabelcheckfb.remove("C1")
+    # remove de ontvangen crc  afkappen omdat we em willen heruitrekenen
+    #temp = tabelcheckfb.copy()
+    print(f'tabelcheckfb test={tabelcheckfb}')
+    runningled =""
+
+    for elementen, new_val in enumerate(tabelcheckfb):
+        #print(f'elementen ={new_val}')
+        runningled = runningled + " " + new_val + " "
+        runningled = runningled.rstrip()
+        runningled = runningled.lstrip()
+        ffh=58
 #####################start
-commando = "FE 00 21 00 00 02"
-verwachtecrc = "74 be"
-crcberekenen(commando)
+
+crcberekenen("FE 00 21 00 00 02") # uitkomst moet 'FE', '00', '21', '00', '00', '02', '74', 'BE' zijn
+#findCRCinString( "c0 00 fe 21 01 93 4b c1") # uitkomst  ja of neen zijn met optioneel de cr  93 4b of
 
 recieved = "c000fe2101934bc1"
 
-eerest = tabel[0]
 
 
 
 
 
-x=1

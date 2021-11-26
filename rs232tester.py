@@ -3,10 +3,16 @@ from time import sleep
 try:
     import serial
 except:
-    print("geen seral op gpio  '/dev/ttyAMA0' = uart toont geenc0 in fb  en ; '/dev/ttyUSB0'")
+    print("geen seral op gpio  '/dev/ttyAMA0' = uart toont geenc0 in fb  en ; '/dev/ttyUSB0' en  rs485usb ; '/dev/ttyUSB1'")
 
 try:
-    ser = serial.Serial(        port='/dev/ttyUSB0',        baudrate = 19200,        parity=serial.PARITY_NONE,        stopbits=serial.STOPBITS_ONE,        bytesize=serial.EIGHTBITS,       timeout=1    )
+    ser = serial.Serial(
+        port='/dev/ttyUSB1',
+        baudrate = 19200,
+        parity=serial.PARITY_NONE,
+        stopbits=serial.STOPBITS_ONE,
+        bytesize=serial.EIGHTBITS,
+        timeout=1    )
 
     counter=0
     feedbackTabelVanPeha = list(())  # creer lege list
