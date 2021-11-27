@@ -5,27 +5,24 @@
 '''
 
 
-class askFB:
+class AskModuleFB:
   def __init__(self,   adres  ):
-    self.adres = adres  #vb0-255
+    if len(adres) == 1:
+      self.adres = "0" + adres.upper()
+    else:
+      self.adres = adres  #vb0-255
+      self.setfeedbackcommando()
 
-  def hexbytetobits(self ,kanaal):
-    if kanaal == None: return None #inputcontrole
-    tabelcrcberekenen = list( )
-    kanaal[::-1] #string achterstevoren keren
-    print(f'hex2bits {kanaal} is ff = 1111 1111')
-    binairgetal = (int(kanaal, 16))
-    binairgetal = binairgetal+ 256  #voorloopnul ervoor
-    string_bytes = bin(binairgetal)
-    for bit in range(3,11):
-        tabelcrcberekenen.append(string_bytes[ bit])
-    return tabelcrcberekenen #een lijst met alle bits
+  def setfeedbackcommando(self ):
+    fb = self.adres + " 01 01"
+    self.feedbackcommando = fb.upper()
+    return self.feedbackcommando #een string vb "45 01 01"
 
 #each object in class inputmodule had a unique adress
 
 
-p4 = askFB("46") #reken crc uit
-
+p4 =  AskModuleFB("01").setfeedbackcommando() #reken crc uit
+pop =  AskModuleFB("cc")
 df=5
 
 
