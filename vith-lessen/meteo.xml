@@ -1,0 +1,1228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report>
+   <location city="Meulebeke [West-Vlaanderen;België]">
+      <interesting>
+         <url description="Voorspelling">https://www.tameteo.nl/meulebeke.htm</url>
+      </interesting>
+      <day value="20211113" name="Zaterdag">
+         <symbol value="6" desc="Bewolkt met motregen" value2="6" desc2="Bewolkt met motregen" />
+         <tempmin value="9" unit="°C" />
+         <tempmax value="13" unit="°C" />
+         <wind value="21" unit="km/h" symbol="14" symbolB="54" />
+         <wind-gusts value="40" unit="km/h" />
+         <rain value="3.1" unit="mm" />
+         <humidity value="92" />
+         <pressure value="1013" unit="mb" />
+         <snowline value="1800" unit="m" />
+         <uv_index_max value="1" />
+         <sun in="08:00" mid="12:31" out="17:02" />
+         <moon in="15:25" out="01:00" lumi="69.9%" desc="Wassende Maan, 69.9% Licht" symbol="9" />
+         <local_info local_time="13:49" offset="1" />
+         <hour value="01:00">
+            <temp value="12" unit="°C" />
+            <symbol value="7" desc="Bewolkt met motregen" value2="7" desc2="Bewolkt met motregen" />
+            <wind value="21" unit="km/h" dir="SW" symbol="14" symbolB="54" />
+            <wind-gusts value="40" unit="km/h" />
+            <rain value="0.3" unit="mm" />
+            <humidity value="88" />
+            <pressure value="1010" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2000" unit="m" />
+            <windchill value="12" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="02:00">
+            <temp value="11" unit="°C" />
+            <symbol value="7" desc="Bewolkt met motregen" value2="7" desc2="Bewolkt met motregen" />
+            <wind value="21" unit="km/h" dir="SW" symbol="14" symbolB="46" />
+            <wind-gusts value="37" unit="km/h" />
+            <rain value="0.2" unit="mm" />
+            <humidity value="94" />
+            <pressure value="1010" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2000" unit="m" />
+            <windchill value="11" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="03:00">
+            <temp value="11" unit="°C" />
+            <symbol value="2" desc="Wisselend bewolkt" value2="2" desc2="Wisselend bewolkt" />
+            <wind value="19" unit="km/h" dir="SW" symbol="14" symbolB="46" />
+            <wind-gusts value="36" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="93" />
+            <pressure value="1010" unit="mb" />
+            <clouds value="53%" />
+            <snowline value="1900" unit="m" />
+            <windchill value="11" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="04:00">
+            <temp value="11" unit="°C" />
+            <symbol value="6" desc="Bewolkt met motregen" value2="6" desc2="Bewolkt met motregen" />
+            <wind value="17" unit="km/h" dir="W" symbol="15" symbolB="47" />
+            <wind-gusts value="37" unit="km/h" />
+            <rain value="0.2" unit="mm" />
+            <humidity value="92" />
+            <pressure value="1010" unit="mb" />
+            <clouds value="76%" />
+            <snowline value="1900" unit="m" />
+            <windchill value="11" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="05:00">
+            <temp value="10" unit="°C" />
+            <symbol value="6" desc="Bewolkt met motregen" value2="6" desc2="Bewolkt met motregen" />
+            <wind value="16" unit="km/h" dir="W" symbol="15" symbolB="47" />
+            <wind-gusts value="31" unit="km/h" />
+            <rain value="0.3" unit="mm" />
+            <humidity value="94" />
+            <pressure value="1010" unit="mb" />
+            <clouds value="75%" />
+            <snowline value="1800" unit="m" />
+            <windchill value="10" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="06:00">
+            <temp value="10" unit="°C" />
+            <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+            <wind value="15" unit="km/h" dir="W" symbol="15" symbolB="47" />
+            <wind-gusts value="29" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="92" />
+            <pressure value="1010" unit="mb" />
+            <clouds value="96%" />
+            <snowline value="1800" unit="m" />
+            <windchill value="10" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="07:00">
+            <temp value="10" unit="°C" />
+            <symbol value="7" desc="Bewolkt met motregen" value2="7" desc2="Bewolkt met motregen" />
+            <wind value="17" unit="km/h" dir="W" symbol="15" symbolB="47" />
+            <wind-gusts value="31" unit="km/h" />
+            <rain value="0.5" unit="mm" />
+            <humidity value="92" />
+            <pressure value="1010" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="1900" unit="m" />
+            <windchill value="10" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="08:00">
+            <temp value="11" unit="°C" />
+            <symbol value="7" desc="Bewolkt met motregen" value2="7" desc2="Bewolkt met motregen" />
+            <wind value="18" unit="km/h" dir="W" symbol="15" symbolB="47" />
+            <wind-gusts value="32" unit="km/h" />
+            <rain value="0.4" unit="mm" />
+            <humidity value="91" />
+            <pressure value="1011" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="1800" unit="m" />
+            <windchill value="11" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="09:00">
+            <temp value="11" unit="°C" />
+            <symbol value="7" desc="Bewolkt met motregen" value2="7" desc2="Bewolkt met motregen" />
+            <wind value="16" unit="km/h" dir="W" symbol="15" symbolB="47" />
+            <wind-gusts value="32" unit="km/h" />
+            <rain value="0.4" unit="mm" />
+            <humidity value="92" />
+            <pressure value="1012" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="1800" unit="m" />
+            <windchill value="11" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="10:00">
+            <temp value="11" unit="°C" />
+            <symbol value="7" desc="Bewolkt met motregen" value2="7" desc2="Bewolkt met motregen" />
+            <wind value="17" unit="km/h" dir="W" symbol="15" symbolB="47" />
+            <wind-gusts value="32" unit="km/h" />
+            <rain value="0.2" unit="mm" />
+            <humidity value="92" />
+            <pressure value="1012" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="1900" unit="m" />
+            <windchill value="11" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="11:00">
+            <temp value="12" unit="°C" />
+            <symbol value="7" desc="Bewolkt met motregen" value2="7" desc2="Bewolkt met motregen" />
+            <wind value="17" unit="km/h" dir="NW" symbol="16" symbolB="48" />
+            <wind-gusts value="30" unit="km/h" />
+            <rain value="0.2" unit="mm" />
+            <humidity value="92" />
+            <pressure value="1012" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="1900" unit="m" />
+            <windchill value="12" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="12:00">
+            <temp value="12" unit="°C" />
+            <symbol value="6" desc="Bewolkt met motregen" value2="6" desc2="Bewolkt met motregen" />
+            <wind value="16" unit="km/h" dir="NW" symbol="16" symbolB="48" />
+            <wind-gusts value="29" unit="km/h" />
+            <rain value="0.1" unit="mm" />
+            <humidity value="91" />
+            <pressure value="1013" unit="mb" />
+            <clouds value="94%" />
+            <snowline value="1900" unit="m" />
+            <windchill value="12" unit="°C" />
+            <uv_index value="1" />
+         </hour>
+         <hour value="13:00">
+            <temp value="12" unit="°C" />
+            <symbol value="7" desc="Bewolkt met motregen" value2="7" desc2="Bewolkt met motregen" />
+            <wind value="19" unit="km/h" dir="NW" symbol="16" symbolB="48" />
+            <wind-gusts value="31" unit="km/h" />
+            <rain value="0.1" unit="mm" />
+            <humidity value="89" />
+            <pressure value="1013" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="1900" unit="m" />
+            <windchill value="12" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="14:00">
+            <temp value="12" unit="°C" />
+            <symbol value="7" desc="Bewolkt met motregen" value2="7" desc2="Bewolkt met motregen" />
+            <wind value="17" unit="km/h" dir="NW" symbol="16" symbolB="48" />
+            <wind-gusts value="34" unit="km/h" />
+            <rain value="0.1" unit="mm" />
+            <humidity value="88" />
+            <pressure value="1013" unit="mb" />
+            <clouds value="99%" />
+            <snowline value="1900" unit="m" />
+            <windchill value="12" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="15:00">
+            <temp value="12" unit="°C" />
+            <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+            <wind value="16" unit="km/h" dir="NW" symbol="16" symbolB="48" />
+            <wind-gusts value="31" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="88" />
+            <pressure value="1013" unit="mb" />
+            <clouds value="84%" />
+            <snowline value="1900" unit="m" />
+            <windchill value="12" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="16:00">
+            <temp value="12" unit="°C" />
+            <symbol value="2" desc="Wisselend bewolkt" value2="2" desc2="Wisselend bewolkt" />
+            <wind value="15" unit="km/h" dir="NW" symbol="16" symbolB="48" />
+            <wind-gusts value="34" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="88" />
+            <pressure value="1014" unit="mb" />
+            <clouds value="35%" />
+            <snowline value="2100" unit="m" />
+            <windchill value="12" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="17:00">
+            <temp value="11" unit="°C" />
+            <symbol value="2" desc="Wisselend bewolkt" value2="2" desc2="Wisselend bewolkt" />
+            <wind value="13" unit="km/h" dir="NW" symbol="16" symbolB="40" />
+            <wind-gusts value="27" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="91" />
+            <pressure value="1015" unit="mb" />
+            <clouds value="48%" />
+            <snowline value="2400" unit="m" />
+            <windchill value="11" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="18:00">
+            <temp value="11" unit="°C" />
+            <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+            <wind value="11" unit="km/h" dir="NW" symbol="16" symbolB="40" />
+            <wind-gusts value="22" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="93" />
+            <pressure value="1015" unit="mb" />
+            <clouds value="74%" />
+            <snowline value="2500" unit="m" />
+            <windchill value="11" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="19:00">
+            <temp value="10" unit="°C" />
+            <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+            <wind value="9" unit="km/h" dir="NW" symbol="16" symbolB="40" />
+            <wind-gusts value="27" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="94" />
+            <pressure value="1015" unit="mb" />
+            <clouds value="95%" />
+            <snowline value="2500" unit="m" />
+            <windchill value="10" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="20:00">
+            <temp value="10" unit="°C" />
+            <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+            <wind value="8" unit="km/h" dir="NW" symbol="8" symbolB="32" />
+            <wind-gusts value="15" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="95" />
+            <pressure value="1016" unit="mb" />
+            <clouds value="67%" />
+            <snowline value="2500" unit="m" />
+            <windchill value="10" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="21:00">
+            <temp value="10" unit="°C" />
+            <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+            <wind value="9" unit="km/h" dir="NW" symbol="8" symbolB="32" />
+            <wind-gusts value="15" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="96" />
+            <pressure value="1016" unit="mb" />
+            <clouds value="69%" />
+            <snowline value="2400" unit="m" />
+            <windchill value="10" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="22:00">
+            <temp value="10" unit="°C" />
+            <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+            <wind value="9" unit="km/h" dir="NW" symbol="8" symbolB="32" />
+            <wind-gusts value="16" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="96" />
+            <pressure value="1016" unit="mb" />
+            <clouds value="70%" />
+            <snowline value="2300" unit="m" />
+            <windchill value="9" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="23:00">
+            <temp value="10" unit="°C" />
+            <symbol value="2" desc="Wisselend bewolkt" value2="2" desc2="Wisselend bewolkt" />
+            <wind value="8" unit="km/h" dir="NW" symbol="8" symbolB="32" />
+            <wind-gusts value="15" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="97" />
+            <pressure value="1017" unit="mb" />
+            <clouds value="52%" />
+            <snowline value="2300" unit="m" />
+            <windchill value="9" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="24:00">
+            <temp value="9" unit="°C" />
+            <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+            <wind value="6" unit="km/h" dir="NW" symbol="8" symbolB="32" />
+            <wind-gusts value="13" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="97" />
+            <pressure value="1017" unit="mb" />
+            <clouds value="80%" />
+            <snowline value="2300" unit="m" />
+            <windchill value="9" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+      </day>
+      <day value="20211114" name="Zondag">
+         <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+         <tempmin value="7" unit="°C" />
+         <tempmax value="12" unit="°C" />
+         <wind value="17" unit="km/h" symbol="10" symbolB="42" />
+         <wind-gusts value="32" unit="km/h" />
+         <rain value="0" unit="mm" />
+         <humidity value="91" />
+         <pressure value="1021" unit="mb" />
+         <snowline value="1700" unit="m" />
+         <uv_index_max value="1" />
+         <sun in="08:01" mid="12:31" out="17:01" />
+         <moon in="15:40" out="02:15" lumi="78.81%" desc="Wassende Maan, 78.81% Licht" symbol="10" />
+         <local_info local_time="13:49" offset="1" />
+         <hour value="01:00">
+            <temp value="10" unit="°C" />
+            <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+            <wind value="5" unit="km/h" dir="NW" symbol="8" symbolB="32" />
+            <wind-gusts value="15" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="97" />
+            <pressure value="1017" unit="mb" />
+            <clouds value="95%" />
+            <snowline value="2000" unit="m" />
+            <windchill value="10" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="02:00">
+            <temp value="10" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="5" unit="km/h" dir="NW" symbol="8" symbolB="24" />
+            <wind-gusts value="8" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="97" />
+            <pressure value="1017" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="1900" unit="m" />
+            <windchill value="9" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="03:00">
+            <temp value="10" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="5" unit="km/h" dir="NW" symbol="8" symbolB="24" />
+            <wind-gusts value="9" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="96" />
+            <pressure value="1017" unit="mb" />
+            <clouds value="99%" />
+            <snowline value="1900" unit="m" />
+            <windchill value="10" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="04:00">
+            <temp value="10" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="7" unit="km/h" dir="N" symbol="1" symbolB="25" />
+            <wind-gusts value="12" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="95" />
+            <pressure value="1017" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="1900" unit="m" />
+            <windchill value="9" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="05:00">
+            <temp value="10" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="6" unit="km/h" dir="N" symbol="1" symbolB="25" />
+            <wind-gusts value="12" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="96" />
+            <pressure value="1017" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="1900" unit="m" />
+            <windchill value="10" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="06:00">
+            <temp value="10" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="8" unit="km/h" dir="NE" symbol="2" symbolB="26" />
+            <wind-gusts value="13" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="95" />
+            <pressure value="1018" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="1900" unit="m" />
+            <windchill value="10" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="07:00">
+            <temp value="10" unit="°C" />
+            <symbol value="2" desc="Wisselend bewolkt" value2="2" desc2="Wisselend bewolkt" />
+            <wind value="8" unit="km/h" dir="NE" symbol="2" symbolB="26" />
+            <wind-gusts value="14" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="95" />
+            <pressure value="1018" unit="mb" />
+            <clouds value="26%" />
+            <snowline value="1900" unit="m" />
+            <windchill value="9" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="08:00">
+            <temp value="9" unit="°C" />
+            <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+            <wind value="7" unit="km/h" dir="NE" symbol="2" symbolB="26" />
+            <wind-gusts value="14" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="97" />
+            <pressure value="1019" unit="mb" />
+            <clouds value="61%" />
+            <snowline value="1900" unit="m" />
+            <windchill value="8" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="09:00">
+            <temp value="9" unit="°C" />
+            <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+            <wind value="10" unit="km/h" dir="NE" symbol="2" symbolB="26" />
+            <wind-gusts value="16" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="97" />
+            <pressure value="1020" unit="mb" />
+            <clouds value="93%" />
+            <snowline value="1800" unit="m" />
+            <windchill value="8" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="10:00">
+            <temp value="10" unit="°C" />
+            <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+            <wind value="11" unit="km/h" dir="NE" symbol="2" symbolB="26" />
+            <wind-gusts value="19" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="96" />
+            <pressure value="1021" unit="mb" />
+            <clouds value="66%" />
+            <snowline value="1700" unit="m" />
+            <windchill value="9" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="11:00">
+            <temp value="11" unit="°C" />
+            <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+            <wind value="13" unit="km/h" dir="NE" symbol="10" symbolB="34" />
+            <wind-gusts value="25" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="92" />
+            <pressure value="1021" unit="mb" />
+            <clouds value="94%" />
+            <snowline value="1800" unit="m" />
+            <windchill value="11" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="12:00">
+            <temp value="12" unit="°C" />
+            <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+            <wind value="14" unit="km/h" dir="NE" symbol="10" symbolB="34" />
+            <wind-gusts value="27" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="87" />
+            <pressure value="1022" unit="mb" />
+            <clouds value="94%" />
+            <snowline value="2300" unit="m" />
+            <windchill value="12" unit="°C" />
+            <uv_index value="1" />
+         </hour>
+         <hour value="13:00">
+            <temp value="12" unit="°C" />
+            <symbol value="2" desc="Wisselend bewolkt" value2="2" desc2="Wisselend bewolkt" />
+            <wind value="15" unit="km/h" dir="NE" symbol="10" symbolB="34" />
+            <wind-gusts value="28" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="86" />
+            <pressure value="1022" unit="mb" />
+            <clouds value="45%" />
+            <snowline value="2400" unit="m" />
+            <windchill value="12" unit="°C" />
+            <uv_index value="1" />
+         </hour>
+         <hour value="14:00">
+            <temp value="12" unit="°C" />
+            <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+            <wind value="17" unit="km/h" dir="NE" symbol="10" symbolB="42" />
+            <wind-gusts value="31" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="84" />
+            <pressure value="1022" unit="mb" />
+            <clouds value="66%" />
+            <snowline value="2400" unit="m" />
+            <windchill value="12" unit="°C" />
+            <uv_index value="1" />
+         </hour>
+         <hour value="15:00">
+            <temp value="12" unit="°C" />
+            <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+            <wind value="15" unit="km/h" dir="NE" symbol="10" symbolB="42" />
+            <wind-gusts value="31" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="84" />
+            <pressure value="1022" unit="mb" />
+            <clouds value="86%" />
+            <snowline value="2400" unit="m" />
+            <windchill value="12" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="16:00">
+            <temp value="11" unit="°C" />
+            <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+            <wind value="13" unit="km/h" dir="NE" symbol="10" symbolB="42" />
+            <wind-gusts value="31" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="85" />
+            <pressure value="1023" unit="mb" />
+            <clouds value="86%" />
+            <snowline value="2400" unit="m" />
+            <windchill value="11" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="17:00">
+            <temp value="10" unit="°C" />
+            <symbol value="2" desc="Wisselend bewolkt" value2="2" desc2="Wisselend bewolkt" />
+            <wind value="12" unit="km/h" dir="NE" symbol="10" symbolB="34" />
+            <wind-gusts value="23" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="89" />
+            <pressure value="1023" unit="mb" />
+            <clouds value="22%" />
+            <snowline value="2400" unit="m" />
+            <windchill value="10" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="18:00">
+            <temp value="9" unit="°C" />
+            <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+            <wind value="12" unit="km/h" dir="NE" symbol="10" symbolB="34" />
+            <wind-gusts value="21" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="93" />
+            <pressure value="1024" unit="mb" />
+            <clouds value="94%" />
+            <snowline value="2400" unit="m" />
+            <windchill value="8" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="19:00">
+            <temp value="9" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="13" unit="km/h" dir="NE" symbol="10" symbolB="34" />
+            <wind-gusts value="24" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="91" />
+            <pressure value="1024" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2500" unit="m" />
+            <windchill value="8" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="20:00">
+            <temp value="10" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="13" unit="km/h" dir="E" symbol="11" symbolB="35" />
+            <wind-gusts value="23" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="88" />
+            <pressure value="1024" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2600" unit="m" />
+            <windchill value="8" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="21:00">
+            <temp value="10" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="12" unit="km/h" dir="NE" symbol="10" symbolB="34" />
+            <wind-gusts value="22" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="86" />
+            <pressure value="1025" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2700" unit="m" />
+            <windchill value="8" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="22:00">
+            <temp value="9" unit="°C" />
+            <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+            <wind value="10" unit="km/h" dir="NE" symbol="10" symbolB="34" />
+            <wind-gusts value="23" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="86" />
+            <pressure value="1025" unit="mb" />
+            <clouds value="90%" />
+            <snowline value="2700" unit="m" />
+            <windchill value="8" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="23:00">
+            <temp value="8" unit="°C" />
+            <symbol value="2" desc="Wisselend bewolkt" value2="2" desc2="Wisselend bewolkt" />
+            <wind value="9" unit="km/h" dir="NE" symbol="2" symbolB="26" />
+            <wind-gusts value="18" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="90" />
+            <pressure value="1025" unit="mb" />
+            <clouds value="26%" />
+            <snowline value="2600" unit="m" />
+            <windchill value="7" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="24:00">
+            <temp value="7" unit="°C" />
+            <symbol value="1" desc="Onbewolkte lucht" value2="1" desc2="Onbewolkte lucht" />
+            <wind value="8" unit="km/h" dir="NE" symbol="2" symbolB="26" />
+            <wind-gusts value="15" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="94" />
+            <pressure value="1025" unit="mb" />
+            <clouds value="6%" />
+            <snowline value="2600" unit="m" />
+            <windchill value="6" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+      </day>
+      <day value="20211115" name="Maandag">
+         <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+         <tempmin value="5" unit="°C" />
+         <tempmax value="10" unit="°C" />
+         <wind value="11" unit="km/h" symbol="9" symbolB="33" />
+         <wind-gusts value="23" unit="km/h" />
+         <rain value="0" unit="mm" />
+         <humidity value="96" />
+         <pressure value="1025" unit="mb" />
+         <snowline value="2500" unit="m" />
+         <uv_index_max value="1" />
+         <sun in="08:03" mid="12:31" out="16:59" />
+         <moon in="15:53" out="03:27" lumi="86.37%" desc="Wassende Maan, 86.37% Licht" symbol="11" />
+         <local_info local_time="13:49" offset="1" />
+         <hour value="01:00">
+            <temp value="7" unit="°C" />
+            <symbol value="1" desc="Onbewolkte lucht" value2="1" desc2="Onbewolkte lucht" />
+            <wind value="8" unit="km/h" dir="NE" symbol="2" symbolB="26" />
+            <wind-gusts value="18" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="96" />
+            <pressure value="1025" unit="mb" />
+            <clouds value="10%" />
+            <snowline value="2600" unit="m" />
+            <windchill value="5" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="02:00">
+            <temp value="6" unit="°C" />
+            <symbol value="1" desc="Onbewolkte lucht" value2="1" desc2="Onbewolkte lucht" />
+            <wind value="9" unit="km/h" dir="NE" symbol="2" symbolB="26" />
+            <wind-gusts value="15" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="98" />
+            <pressure value="1025" unit="mb" />
+            <clouds value="6%" />
+            <snowline value="2600" unit="m" />
+            <windchill value="5" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="03:00">
+            <temp value="6" unit="°C" />
+            <symbol value="2" desc="Wisselend bewolkt" value2="2" desc2="Wisselend bewolkt" />
+            <wind value="9" unit="km/h" dir="NE" symbol="2" symbolB="26" />
+            <wind-gusts value="15" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="99" />
+            <pressure value="1025" unit="mb" />
+            <clouds value="17%" />
+            <snowline value="2600" unit="m" />
+            <windchill value="4" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="04:00">
+            <temp value="5" unit="°C" />
+            <symbol value="2" desc="Wisselend bewolkt" value2="2" desc2="Wisselend bewolkt" />
+            <wind value="9" unit="km/h" dir="NE" symbol="2" symbolB="26" />
+            <wind-gusts value="16" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="99" />
+            <pressure value="1025" unit="mb" />
+            <clouds value="48%" />
+            <snowline value="2700" unit="m" />
+            <windchill value="4" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="05:00">
+            <temp value="5" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="9" unit="km/h" dir="NE" symbol="2" symbolB="26" />
+            <wind-gusts value="17" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="99" />
+            <pressure value="1024" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2700" unit="m" />
+            <windchill value="3" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="06:00">
+            <temp value="5" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="9" unit="km/h" dir="NE" symbol="2" symbolB="26" />
+            <wind-gusts value="17" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="100" />
+            <pressure value="1024" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2600" unit="m" />
+            <windchill value="3" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="07:00">
+            <temp value="5" unit="°C" />
+            <symbol value="4" desc="Mist" value2="4" desc2="Mist" />
+            <wind value="9" unit="km/h" dir="NE" symbol="2" symbolB="26" />
+            <wind-gusts value="17" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="100" />
+            <pressure value="1025" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2600" unit="m" />
+            <windchill value="3" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="08:00">
+            <temp value="5" unit="°C" />
+            <symbol value="4" desc="Mist" value2="4" desc2="Mist" />
+            <wind value="10" unit="km/h" dir="NE" symbol="2" symbolB="26" />
+            <wind-gusts value="18" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="99" />
+            <pressure value="1025" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2600" unit="m" />
+            <windchill value="3" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="09:00">
+            <temp value="5" unit="°C" />
+            <symbol value="4" desc="Mist" value2="4" desc2="Mist" />
+            <wind value="9" unit="km/h" dir="NE" symbol="2" symbolB="26" />
+            <wind-gusts value="18" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="99" />
+            <pressure value="1025" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2500" unit="m" />
+            <windchill value="3" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="10:00">
+            <temp value="6" unit="°C" />
+            <symbol value="4" desc="Mist" value2="4" desc2="Mist" />
+            <wind value="10" unit="km/h" dir="NE" symbol="10" symbolB="34" />
+            <wind-gusts value="20" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="98" />
+            <pressure value="1025" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2600" unit="m" />
+            <windchill value="4" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="11:00">
+            <temp value="6" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="11" unit="km/h" dir="NE" symbol="10" symbolB="34" />
+            <wind-gusts value="22" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="98" />
+            <pressure value="1025" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2600" unit="m" />
+            <windchill value="4" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="12:00">
+            <temp value="6" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="11" unit="km/h" dir="NE" symbol="10" symbolB="34" />
+            <wind-gusts value="23" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="98" />
+            <pressure value="1025" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2600" unit="m" />
+            <windchill value="4" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="13:00">
+            <temp value="7" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="11" unit="km/h" dir="NE" symbol="10" symbolB="34" />
+            <wind-gusts value="23" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="94" />
+            <pressure value="1025" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2700" unit="m" />
+            <windchill value="5" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="14:00">
+            <temp value="8" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="11" unit="km/h" dir="N" symbol="9" symbolB="33" />
+            <wind-gusts value="23" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="92" />
+            <pressure value="1024" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2700" unit="m" />
+            <windchill value="6" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="15:00">
+            <temp value="8" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="11" unit="km/h" dir="N" symbol="9" symbolB="33" />
+            <wind-gusts value="23" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="91" />
+            <pressure value="1024" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2700" unit="m" />
+            <windchill value="6" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="16:00">
+            <temp value="7" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="11" unit="km/h" dir="NE" symbol="10" symbolB="34" />
+            <wind-gusts value="23" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="91" />
+            <pressure value="1024" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2700" unit="m" />
+            <windchill value="6" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="17:00">
+            <temp value="7" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="11" unit="km/h" dir="NE" symbol="10" symbolB="34" />
+            <wind-gusts value="21" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="93" />
+            <pressure value="1024" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2700" unit="m" />
+            <windchill value="5" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="18:00">
+            <temp value="6" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="11" unit="km/h" dir="NE" symbol="10" symbolB="34" />
+            <wind-gusts value="20" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="94" />
+            <pressure value="1024" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2700" unit="m" />
+            <windchill value="5" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="19:00">
+            <temp value="6" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="10" unit="km/h" dir="NE" symbol="10" symbolB="34" />
+            <wind-gusts value="21" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="95" />
+            <pressure value="1025" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2600" unit="m" />
+            <windchill value="4" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="20:00">
+            <temp value="6" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="10" unit="km/h" dir="NE" symbol="2" symbolB="26" />
+            <wind-gusts value="19" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="95" />
+            <pressure value="1025" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2600" unit="m" />
+            <windchill value="4" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="21:00">
+            <temp value="6" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="10" unit="km/h" dir="NE" symbol="2" symbolB="26" />
+            <wind-gusts value="18" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="95" />
+            <pressure value="1025" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2700" unit="m" />
+            <windchill value="4" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="22:00">
+            <temp value="6" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="8" unit="km/h" dir="NE" symbol="2" symbolB="26" />
+            <wind-gusts value="19" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="95" />
+            <pressure value="1025" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2800" unit="m" />
+            <windchill value="4" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="23:00">
+            <temp value="6" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="7" unit="km/h" dir="E" symbol="3" symbolB="27" />
+            <wind-gusts value="16" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="94" />
+            <pressure value="1025" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2800" unit="m" />
+            <windchill value="5" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="24:00">
+            <temp value="6" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="5" unit="km/h" dir="NE" symbol="2" symbolB="26" />
+            <wind-gusts value="13" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="94" />
+            <pressure value="1025" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2800" unit="m" />
+            <windchill value="5" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+      </day>
+      <day value="20211116" name="Dinsdag">
+         <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+         <tempmin value="5" unit="°C" />
+         <tempmax value="8" unit="°C" />
+         <wind value="13" unit="km/h" symbol="13" symbolB="37" />
+         <wind-gusts value="22" unit="km/h" />
+         <rain value="0" unit="mm" />
+         <humidity value="88" />
+         <pressure value="1022" unit="mb" />
+         <snowline value="2000" unit="m" />
+         <uv_index_max value="1" />
+         <sun in="08:05" mid="12:32" out="16:58" />
+         <moon in="16:07" out="04:37" lumi="92.38%" desc="Wassende Maan, 92.38% Licht" symbol="12" />
+         <local_info local_time="13:49" offset="1" />
+         <hour value="01:00">
+            <temp value="6" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="4" unit="km/h" dir="N" symbol="1" symbolB="25" />
+            <wind-gusts value="16" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="94" />
+            <pressure value="1025" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2800" unit="m" />
+            <windchill value="5" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="04:00">
+            <temp value="6" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="3" unit="km/h" dir="NE" symbol="2" symbolB="18" />
+            <wind-gusts value="11" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="93" />
+            <pressure value="1024" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2700" unit="m" />
+            <windchill value="6" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="07:00">
+            <temp value="6" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="5" unit="km/h" dir="E" symbol="3" symbolB="19" />
+            <wind-gusts value="10" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="91" />
+            <pressure value="1023" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2700" unit="m" />
+            <windchill value="5" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="10:00">
+            <temp value="6" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="2" unit="km/h" dir="E" symbol="3" symbolB="19" />
+            <wind-gusts value="9" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="89" />
+            <pressure value="1024" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2800" unit="m" />
+            <windchill value="7" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="13:00">
+            <temp value="7" unit="°C" />
+            <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+            <wind value="9" unit="km/h" dir="SE" symbol="4" symbolB="36" />
+            <wind-gusts value="20" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="83" />
+            <pressure value="1022" unit="mb" />
+            <clouds value="85%" />
+            <snowline value="2700" unit="m" />
+            <windchill value="6" unit="°C" />
+            <uv_index value="1" />
+         </hour>
+         <hour value="16:00">
+            <temp value="8" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="5" unit="km/h" dir="SW" symbol="6" symbolB="30" />
+            <wind-gusts value="19" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="81" />
+            <pressure value="1021" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2600" unit="m" />
+            <windchill value="7" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="19:00">
+            <temp value="7" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="11" unit="km/h" dir="S" symbol="5" symbolB="29" />
+            <wind-gusts value="18" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="86" />
+            <pressure value="1020" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2700" unit="m" />
+            <windchill value="5" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="22:00">
+            <temp value="7" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="13" unit="km/h" dir="S" symbol="13" symbolB="37" />
+            <wind-gusts value="22" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="90" />
+            <pressure value="1019" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="2000" unit="m" />
+            <windchill value="4" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+      </day>
+      <day value="20211117" name="Woensdag">
+         <symbol value="6" desc="Bewolkt met motregen" value2="6" desc2="Bewolkt met motregen" />
+         <tempmin value="6" unit="°C" />
+         <tempmax value="11" unit="°C" />
+         <wind value="19" unit="km/h" symbol="16" symbolB="48" />
+         <wind-gusts value="37" unit="km/h" />
+         <rain value="0.3" unit="mm" />
+         <humidity value="86" />
+         <pressure value="1018" unit="mb" />
+         <snowline value="1300" unit="m" />
+         <uv_index_max value="1" />
+         <sun in="08:06" mid="12:32" out="16:57" />
+         <moon in="16:21" out="05:48" lumi="96.7%" desc="Wassende Maan, 96.7% Licht" symbol="12" />
+         <local_info local_time="13:49" offset="1" />
+         <hour value="01:00">
+            <temp value="7" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="16" unit="km/h" dir="S" symbol="13" symbolB="37" />
+            <wind-gusts value="27" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="89" />
+            <pressure value="1018" unit="mb" />
+            <clouds value="100%" />
+            <snowline value="1800" unit="m" />
+            <windchill value="5" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="04:00">
+            <temp value="8" unit="°C" />
+            <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+            <wind value="13" unit="km/h" dir="SW" symbol="14" symbolB="38" />
+            <wind-gusts value="28" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="94" />
+            <pressure value="1017" unit="mb" />
+            <clouds value="73%" />
+            <snowline value="2000" unit="m" />
+            <windchill value="7" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="07:00">
+            <temp value="9" unit="°C" />
+            <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+            <wind value="13" unit="km/h" dir="SW" symbol="14" symbolB="38" />
+            <wind-gusts value="24" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="93" />
+            <pressure value="1017" unit="mb" />
+            <clouds value="80%" />
+            <snowline value="1700" unit="m" />
+            <windchill value="7" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="10:00">
+            <temp value="10" unit="°C" />
+            <symbol value="4" desc="Zwaar bewolkt" value2="4" desc2="Zwaar bewolkt" />
+            <wind value="14" unit="km/h" dir="W" symbol="15" symbolB="39" />
+            <wind-gusts value="25" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="93" />
+            <pressure value="1017" unit="mb" />
+            <clouds value="99%" />
+            <snowline value="1500" unit="m" />
+            <windchill value="8" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="13:00">
+            <temp value="11" unit="°C" />
+            <symbol value="5" desc="Wisselende bewolking met motregen" value2="5" desc2="Wisselende bewolking met motregen" />
+            <wind value="19" unit="km/h" dir="NW" symbol="16" symbolB="48" />
+            <wind-gusts value="35" unit="km/h" />
+            <rain value="0.3" unit="mm" />
+            <humidity value="71" />
+            <pressure value="1018" unit="mb" />
+            <clouds value="7%" />
+            <snowline value="1300" unit="m" />
+            <windchill value="11" unit="°C" />
+            <uv_index value="1" />
+         </hour>
+         <hour value="16:00">
+            <temp value="9" unit="°C" />
+            <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+            <wind value="15" unit="km/h" dir="W" symbol="15" symbolB="47" />
+            <wind-gusts value="36" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="78" />
+            <pressure value="1019" unit="mb" />
+            <clouds value="61%" />
+            <snowline value="1300" unit="m" />
+            <windchill value="8" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="19:00">
+            <temp value="8" unit="°C" />
+            <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+            <wind value="13" unit="km/h" dir="W" symbol="15" symbolB="39" />
+            <wind-gusts value="26" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="85" />
+            <pressure value="1020" unit="mb" />
+            <clouds value="65%" />
+            <snowline value="1400" unit="m" />
+            <windchill value="6" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+         <hour value="22:00">
+            <temp value="8" unit="°C" />
+            <symbol value="3" desc="Bewolkt" value2="3" desc2="Bewolkt" />
+            <wind value="12" unit="km/h" dir="W" symbol="15" symbolB="39" />
+            <wind-gusts value="23" unit="km/h" />
+            <rain value="0" unit="mm" />
+            <humidity value="86" />
+            <pressure value="1021" unit="mb" />
+            <clouds value="78%" />
+            <snowline value="1400" unit="m" />
+            <windchill value="6" unit="°C" />
+            <uv_index value="0" />
+         </hour>
+      </day>
+   </location>
+</report>
+
