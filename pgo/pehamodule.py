@@ -1,9 +1,12 @@
+import time
 
+
+
+#print(time.strftime("%H:%M:%S", time.localtime()))
 
 class pehamodule:
     def __init__(self):
-        self.overzichtallemodules = set()
-
+        self.overzichtallemodules = {} #dictionary
     def setData(self, rs485pakket):
         rs485pakket=rs485pakket.upper()
 
@@ -20,8 +23,21 @@ class pehamodule:
         a_antalbytesdievolgen =  int(bin(int(tabel[1], 16))[2:].zfill(8)[4:8],2)
         a_adres =  tabel[0]
         a_togglebit =  bin(int(tabel[1], 16))[2:].zfill(8)[0]
-        self.overzichtallemodules.add(a_adres)
-        self.togglebit = a_togglebit
+
+        if a_adres in  self.overzichtallemodules:
+            pass
+        else:
+            self.overzichtallemodules[a_adres] = {"opdracht" :  "yy yy yy" , "actuelestand" : "xx xx xx" , "togglebit": "01" , "time" : time.strftime("%H:%M:%S", time.localtime())}
+
+
+        if a_antalbytesdievolgen ==1:
+             self.overzichtallemodules[a_adres]["opdracht"]= tabel[1:-2]
+            # dit is als het rs485pakket een opdracht was van stureenheid voor de module (vb wat is u status) 45 01 01 crc crc , we hebben daar niets aan om te ontleden
+        else:
+             #deze info moet dan naar de website , zoals welke lamp brand er
+            self.overzichtallemodules[a_adres]["actuelestand"] =  tabel[1:-2]
+
+        self.overzichtallemodules[a_adres]["togglebit"] = a_togglebit
 
 
 
@@ -65,13 +81,15 @@ def crcberekenen(ext  ):
 #####################end functie crc berekenen
 
 
-
+''' 
 #respons_analyser("45 82 01 02 a0 07") #  relaismod fb nieuwe fw
 #respons_analyser("45 02 01 02 4c 0b") #  relaismod fb nieuwe fw
 zekeringkastvol = pehamodule()
 zekeringkastvol.setData("45 82 01 02 a0 07")
 zekeringkastvol.setData("46 82 01 02 a0 07")
-
+zekeringkastvol.setData("45 72 02 02 a0 07 ff")
+zekeringkastvol.setData("45 01 01 ff ff")
+'''
 
 
 
